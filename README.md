@@ -16,7 +16,7 @@ const kirtoka = {
  challenge: "Pass the OCP Java SE 11 Certification"
 }
 ```
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="38b89c92-8f2c-48ec-bfc8-3f949d3ecf14" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="38b89c92-8f2c-48ec-bfc8-3f949d3ecf14" data-share-badge-host="https://www.credly.com"></div>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
