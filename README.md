@@ -12,8 +12,8 @@ const kirtoka = {
   pronouns: "she" | "her",
   code: [Java, Python, C++, HTML, CSS, javascript],
   tools: [Kubernetes, Docker],
-  databases: [MS SQL Server, PostgreSQL],
- challenge: "Pass the OCP Java SE 11 Certification"
+  databases: [MS SQL Server, PostgreSQL, Oracle],
+  challenge: "Pass the OCP Java SE 11 Certification"
 }
 ```
 
