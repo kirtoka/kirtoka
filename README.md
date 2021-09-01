@@ -13,7 +13,7 @@ const kirtoka = {
   code: [Java, Python, C++, HTML, CSS, javascript],
   tools: [Kubernetes, Docker],
   databases: [MS SQL Server, PostgreSQL, Oracle],
-  challenge: "Pass the OCP Java SE 11 Certification"
+  challenge: "Finish Data Scientist Nanodegree Program"
 }
 ```
 
