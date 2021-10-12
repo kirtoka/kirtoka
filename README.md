@@ -1,12 +1,4 @@
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-M7D92PZ0XP"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-M7D92PZ0XP');
-</script>
 
 <h2> Hi, I'm Natalia Chirtoca! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://github.com/kirtoka/kirtoka/blob/main/matrix.gif" width="230">
