@@ -13,7 +13,7 @@
 const kirtoka = {
   pronouns: "she" | "her",
   code: [Java, Python, C++, HTML, CSS, javascript],
-  tools: [Kubernetes, Docker],
+  tools: [Kubernetes, Docker, Heroku],
   databases: [MS SQL Server, PostgreSQL, Oracle],
   challenge: "Finish Data Scientist Nanodegree Program"
 }
