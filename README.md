@@ -12,9 +12,9 @@
 ```javascript
 const kirtoka = {
   pronouns: "she" | "her",
-  code: [Python, Java, C++, HTML, CSS, javascript],
-  tools: [Kubernetes, Docker, flask, pandas, plotly],
-  cloud platforms: [Azure, Heroku],
+  code: [Python, Java, C++, HTML, CSS, Javascript, Shell scripting],
+  tools: [flask, pandas, plotly, nltk, sklearn],
+  virtualization/cloud: [Azure, Heroku, Kubernetes, Docker],
   databases: [MS SQL Server, PostgreSQL, Oracle],
   challenge: "Finish Data Scientist Nanodegree Program"
 }
