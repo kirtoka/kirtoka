@@ -16,7 +16,7 @@ const kirtoka = {
   tools: [flask, pandas, plotly, nltk, sklearn],
   virtualization/cloud: [Azure, Heroku, Kubernetes, Docker],
   databases: [MS SQL Server, PostgreSQL, Oracle],
-  challenge: "Finish Data Scientist Nanodegree Program"
+  challenge: "Finish Cloud DevOps using Microsoft Azure Nanodegree Program"
 }
 ```
 
