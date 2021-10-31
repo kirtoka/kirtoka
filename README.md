@@ -13,8 +13,8 @@
 const kirtoka = {
   pronouns: "she" | "her",
   code: [Python, Java, C++, HTML, CSS, Javascript, Shell scripting],
-  tools: [flask, pandas, plotly, nltk, sklearn],
-  virtualization/cloud: [Azure, Heroku, Kubernetes, Docker],
+  libs: [flask, pandas, plotly, nltk, sklearn],
+  tools: [Heroku, Kubernetes, Docker, Terraform, Packer]
   databases: [MS SQL Server, PostgreSQL, Oracle],
   challenge: "Finish Cloud DevOps using Microsoft Azure Nanodegree Program"
 }
